@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description>CoB Phone List will test using global custom database views and global  custom system UI views.</description>
+        <device_type>browser</device_type>
+        <hint>CoB Phone List with global views</hint>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-20 15:15:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>28c195ad1b5050106590877ddc4bcbb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CoB Phone List</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CoB Phone List" source="x_328973_cob_phone">299ac9651b5050106590877ddc4bcbf6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CoB Phone List">299ac9651b5050106590877ddc4bcbf6</sys_scope>
+        <sys_update_name>sys_app_application_28c195ad1b5050106590877ddc4bcbb6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-20 15:15:20</sys_updated_on>
+        <title>CoB Phone List</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
