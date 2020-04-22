@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script/>
+        <description>Pages contains a link to the Azure (khm) web page where I documented all my Service Now research.</description>
+        <direct>false</direct>
+        <endpoint>x_328973_cob_phone_OurProjectDocumentation.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+	<div class="video">
+                	<iframe width="880" height="760" src="https://servicenowportalkhm2020.azurewebsites.net/" frameborder="0"  		allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen="">
+                	</iframe>
+                </div>
+</j:jelly>]]></html>
+        <name>OurProjectDocumentation</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-22 19:23:28</sys_created_on>
+        <sys_id>887d1c9a1b18d0106590877ddc4bcbd5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OurProjectDocumentation</sys_name>
+        <sys_package display_value="CoB Phone List" source="x_328973_cob_phone">299ac9651b5050106590877ddc4bcbf6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CoB Phone List">299ac9651b5050106590877ddc4bcbf6</sys_scope>
+        <sys_update_name>sys_ui_page_887d1c9a1b18d0106590877ddc4bcbd5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-22 19:23:28</sys_updated_on>
+    </sys_ui_page>
+</record_update>
