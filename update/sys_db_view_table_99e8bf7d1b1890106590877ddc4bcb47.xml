@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table">
+    <sys_db_view_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <left_join>false</left_join>
+        <order>100</order>
+        <sys_class_name>sys_db_view_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 22:06:24</sys_created_on>
+        <sys_id>99e8bf7d1b1890106590877ddc4bcb47</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user</sys_name>
+        <sys_package display_value="CoB Phone List" source="x_328973_cob_phone">299ac9651b5050106590877ddc4bcbf6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CoB Phone List">299ac9651b5050106590877ddc4bcbf6</sys_scope>
+        <sys_update_name>sys_db_view_table_99e8bf7d1b1890106590877ddc4bcb47</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 22:06:24</sys_updated_on>
+        <table>sys_user</table>
+        <variable_prefix>plscdb</variable_prefix>
+        <view display_value="x_328973_cob_phone_phonelistscopeddbview">10c67f351b9490106590877ddc4bcbc6</view>
+        <where_clause/>
+    </sys_db_view_table>
+</record_update>
